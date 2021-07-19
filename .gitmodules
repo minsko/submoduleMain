@@ -1,0 +1,6 @@
+[submodule "submodules/submoduleLib1"]
+	path = submodules/lib1
+	url = https://github.com/minsko/submoduleLib1.git
+[submodule "submodules/lib2"]
+	path = submodules/lib2
+	url = https://github.com/minsko/submoduleLib2.git
